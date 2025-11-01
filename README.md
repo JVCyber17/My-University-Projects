@@ -6,13 +6,15 @@ Welcome to my portfolio. This repository contains projects from my B.Tech and M.
 
 University: University of Information Technology and Management, Rzeszow, Poland
 
-[B.Tech Project 1 Name] - [View Project]
+[Online Business Card Generator] - A complete full-stack web application developed as a Diplomathesis, providing businesses with an end-to-end digital platform for custom business card design, generation, and purchase via an integrated payment gateway.
 
-[B.Tech Project 2 Name] - [View Project]
+[theoptim_vcard code thesis] - Main SQL code for Online Business Card Generator
 
-[B.Tech Project 3 Name] - [View Project]
+[SQLQuery Thesis] - SQL quary for Business card generator 
 
-(Replace [View Project] with the link to your file, e.g., [View Project](./Project1.pdf))
+[Cybersecurity Project UITM VLAN] - A Cybersecurity project demonstrating the configuration and implementation of VLANs to enforce network segmentation and minimize lateral threat movement, fulfilling a cybersecurity requirement.
+
+
 
 🎓 M.Sc Projects
 
